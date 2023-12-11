@@ -1,1 +1,1 @@
-armastus:  5
+on:  5
